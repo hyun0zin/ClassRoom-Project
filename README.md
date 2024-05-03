@@ -17,7 +17,7 @@
 | <p align="center"><img src="https://github.com/ClassRoom-Project/ClassRoom-Project/assets/134301942/5339e860-0ea5-42bb-8492-d37ece275d41" style="width:90px;" /></p> | <p align="center"><img src="https://github.com/ClassRoom-Project/ClassRoom-Project/assets/134301942/cbdd9c03-3660-4fad-8ef0-1ceb3555af8a" style="width:100px;"/></p> | <p align="center"><img src="https://github.com/ClassRoom-Project/ClassRoom-Project/assets/134301942/d68505f3-4bd7-4964-9a0e-b703009de1c0" style="width:140px;" /></p> | <p align="center"><img src="https://github.com/ClassRoom-Project/ClassRoom-Project/assets/134301942/a1a8a95a-1683-44a5-92f3-8c730adde31b" style="width:100px; border-radius: 50%" /></p> | <p align="center"><img src="https://github.com/ClassRoom-Project/ClassRoom-Project/assets/134301942/0289b460-2f36-4f1c-b079-391ee8b841bc" style="width:120px;" /></p> | <p align="center"><img src="https://github.com/ClassRoom-Project/ClassRoom-Project/assets/134301942/259f0eaa-e74a-4df6-bc75-ef6591cefab5" style="width:90px;" /></p> |
 | [@anywhereim](https://github.com/anywhereim) | [@hyun0zin](https://github.com/hyun0zin) | [@ccccliff](https://github.com/ccccliff) | [@seopport](https://github.com/seopport) | [@Hyerin](https://github.com/limhyerin) | - |
 | 팀장 | 부팀장 | 팀원 | 팀원 | 팀원 | 디자이너 |
-| - 로그인/회원가입<br> - 채팅/챗봇 <br> - 결제페이지 | - 마이페이지 <br> - 대시보드 | - 메인페이지 <br> - 리스트페이지 <br> - 디테일페이지 | - 클래스 예약페이지 <br> - 좋아요 | - 클래스 등록페이지 <br> - 클래스 수정페이지 <br> - 알림창 | - 와이어프레임 <br> - 배너, 로고 디자인 |
+| - 로그인/회원가입<br> - 채팅/챗봇 <br> - 결제페이지 | - 마이페이지 <br> - 대시보드 <br> - 카카오맵 | - 메인페이지 <br> - 리스트페이지 <br> - 디테일페이지 | - 클래스 예약페이지 <br> - 좋아요 | - 클래스 등록페이지 <br> - 클래스 수정페이지 <br> - 알림창 | - 와이어프레임 <br> - 배너, 로고 디자인 |
 
 <br><br>
 
